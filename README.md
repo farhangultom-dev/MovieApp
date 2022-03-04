@@ -9,3 +9,8 @@ Technical Test Elemes.id
 - tunggu build gradle hingga selesai
 - setelah itu nyalakan emulator android
 - lalu run project
+
+![alt text](https://github.com/farhangultom-dev/cipell.github.io/blob/master/splashScreen.jpeg)
+![alt text](https://github.com/farhangultom-dev/cipell.github.io/blob/master/homeScreen.jpeg)
+![alt text](https://github.com/farhangultom-dev/cipell.github.io/blob/master/searchScreen.jpeg)
+![alt text](https://github.com/farhangultom-dev/cipell.github.io/blob/master/watchListScreen.jpeg)
