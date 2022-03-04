@@ -1,0 +1,86 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MovieApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/bgColor</item>
+        <!-- Customize your theme here. -->
+    </style>
+    
+    <style name="titleTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="subTitleTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto_light</item>
+    </style>
+
+    <style name="textStyleBoldWhite21sp">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="textStyleBoldWhite18sp">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="textStyleMediumWhite12sp">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="textStyleMediumWhite16sp">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="textStyleMediumWhite11sp">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="textStyleMediumWhite13sp">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="textStyleLightWhite13sp">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto_light</item>
+    </style>
+
+    <style name="textStyleBoldRed13sp">
+        <item name="android:textColor">#FD0303</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+    </style>
+</resources>
